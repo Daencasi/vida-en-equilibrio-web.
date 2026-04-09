@@ -1,0 +1,9 @@
+# Respaldo personal
+backup/
+
+# Archivos del Sistema
+.DS_Store
+Thumbs.db
+
+# Otros archivos locales
+*.local
